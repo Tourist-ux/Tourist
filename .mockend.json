@@ -6,6 +6,7 @@
     "createdAt": "date",
     "comments": "Comment[]"
   },
+  "Login":{"id":"string","name":"string","email":"string","password":"string","one":"string","two":"string","three":"string","four":"string","five":"string"},
   "Comment": {
     "body": "string",
     "post": "Post"
